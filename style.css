@@ -34,8 +34,8 @@ body{
 
 h1{
     color: rgb(109, 0, 251);
-    border-style: solid;
-    
+    background: linear-gradient(rgb(116, 201, 241), red);
+    text-align: center;
 }
 div{
     width: 600px;
@@ -56,8 +56,8 @@ div{
 
 #row1-section2{
     border-style: solid;
-    border-color: red;
-    background-color: skyblue;
+    border-color: rgb(241, 117, 0);
+    background-color: rgb(116, 201, 241);
 }
 
 #jordans-1-desc{
@@ -73,8 +73,10 @@ div{
 #row2-section2{
     border-style: solid;
     background-color: red;
+    border-color: rgb(13, 110, 0);
 }
 
 #jordans-2-desc{
     color: white;
+    font-family: Copperplate, Papyrus, fantasy;
 }
